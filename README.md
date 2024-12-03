@@ -23,7 +23,7 @@ edge graph, and enhances the function representation of *under-labeled* proteins
 
 * ### Download projects
 
-   Download the GitHub repo of this project onto your local server: `git clone https://github.com/bixiangpeng/SemanGraphPPI/`
+   Download the GitHub repo of this project onto your local server: `git clone https://github.com/anonymous-account-for-blindreview/SemanGraphPPI/`
 
 
 * ### Configure the environment manually
