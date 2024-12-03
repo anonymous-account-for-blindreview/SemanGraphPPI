@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-作者：毕宸浩
-日期：2023年07月25日
-"""
 import torch
 from tqdm import tqdm
 
