@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-作者：毕宸浩
-日期：2024年07月06日
-"""
 import torch
 import math
 import torch.nn as nn
