@@ -1,4 +1,4 @@
-# SemanGraphPPI
+# SemanGraphPPI （The content is being continuously updated ...）
 ---
 A repo for "Protein Interaction Pattern Recognition Using Heterogeneous Semantics Mining and Hierarchical Graph Representation".
 
@@ -113,3 +113,8 @@ edge graph, and enhances the function representation of *under-labeled* proteins
       python inference.py --datasetname STRING_H.sapiens --super_ratio 0.2 --layers 8 --hidden_dim 64
 
    ```
+
+## Contact
+
+We welcome you to contact us (email: bixiangpeng@stu.ouc.edu.cn) for any questions and cooperations.
+
