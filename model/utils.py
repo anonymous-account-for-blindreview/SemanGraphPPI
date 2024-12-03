@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-作者：毕宸浩
-日期：2024年07月07日
-"""
 import torch.nn as nn
 import torch
 from torch_sparse import  masked_select_nnz
