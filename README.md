@@ -17,7 +17,7 @@ A repo for "Protein Interaction Pattern Recognition Using Heterogeneous Semantic
 ## Abstracts
 Discovering the inherent routine of interactions between proteins is of great importance in deciphering microscopic life systems. It is essentially a pattern recognition task since the most crucial step is to uncover the complex interaction patterns hidden in the biological knowledge graphs. Recent advances have shown great promise in this regard; however, existing solutions still overlook three critical issues: 1) category heterogeneity, 2) relation heterogeneity, and 3) annotation scarcity, which severely hinder the comprehensive identification and understanding of protein interaction patterns. To address these issues, we introduce a protein interaction pattern recognition framework based on heterogeneous semantics mining and hierarchical graph representation, namely SemanGraphPPI. Our model integrates the annotation knowledge graph with the interaction knowledge graph through hierarchical graph representation, enabling end-to-end function representation of proteins. Additionally, it effectively mines heterogeneous function semantics of proteins by explicitly modeling the heterogeneous information in the annotation knowl
 edge graph, and enhances the function representation of *under-labeled* proteins through a well-designed hierarchical knowledge enhancement module. Exhaustive experiments on three bench mark datasets demonstrate that our proposed model achieves state-of-the-art performance compared to other baseline methods and exhibits good generalization and efficiency in large-scale PPI prediction.
-![SemanGraphPPI architecture](https://github.com/bixiangpeng/SemanGraphPPI/blob/main/framework.png)
+![SemanGraphPPI architecture](https://github.com/anonymous-account-for-blindreview/SemanGraphPPI/blob/main/framework.png)
 
 ## Requirements
 
@@ -97,9 +97,9 @@ edge graph, and enhances the function representation of *under-labeled* proteins
 <a name="pretrained-models"></a>
    | Datasets | Pre-trained models          | Description |
    |:-----------:|:-----------------------------:|:--------------|
-   | DIP_S.cerevisiae    | [model](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/DIP_S.cerevisiae/pretrained_model.pkl) | The pretrained model parameters on the DIP S. cerevisiae dataset. |
-   | STRING_S.cerevisiae     | [model](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/STRING_S.cerevisiae/pretrained_model.pkl) | The Pretrained model parameters on the STRING S. cerevisiae dataset. |
-   | STRING_H.sapiens    | [model](https://github.com/bixiangpeng/SSPPI/blob/main/model_pkl/STRING_H.sapiens/pretrained_model.pkl)   | The pretrained model parameters on the STRING H. sapiens dataset. |
+   | DIP_S.cerevisiae    | [model](https://github.com/anonymous-account-for-blindreview/SemanGraphPPI/blob/main/model_pkl/DIP_S.cerevisiae/pretrained_model.pkl) | The pretrained model parameters on the DIP S. cerevisiae dataset. |
+   | STRING_S.cerevisiae     | [model](https://github.com/anonymous-account-for-blindreview/SemanGraphPPI/blob/main/model_pkl/STRING_S.cerevisiae/pretrained_model.pkl) | The Pretrained model parameters on the STRING S. cerevisiae dataset. |
+   | STRING_H.sapiens    | [model](https://github.com/anonymous-account-for-blindreview/SemanGraphPPI/blob/main/model_pkl/STRING_H.sapiens/pretrained_model.pkl)   | The pretrained model parameters on the STRING H. sapiens dataset. |
   
    Based on these pre-trained models, you can perform PPI predictions by simply running the following command:
    ```text
