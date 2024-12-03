@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-作者：毕宸浩
-日期：2023年07月24日
-"""
 from torch.utils.data import Dataset
 import torch
 
