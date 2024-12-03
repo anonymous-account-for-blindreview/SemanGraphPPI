@@ -114,7 +114,4 @@ edge graph, and enhances the function representation of *under-labeled* proteins
 
    ```
 
-## Contact
-
-We welcome you to contact us (email: bixiangpeng@stu.ouc.edu.cn) for any questions and cooperations.
 
